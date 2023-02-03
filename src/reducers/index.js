@@ -1,6 +1,5 @@
-import { createSlice, CreateSlice } from "@reduxjs/toolkit";
+import { createSlice } from "@reduxjs/toolkit";
 import axios from "axios";
-import { Toast } from "react-hot-toast";
 const API_URL = "http://127.0.0.1:5000";
 
 
